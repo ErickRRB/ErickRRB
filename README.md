@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/erickrrb/" title="LinkedIn de Erick Ramirez"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn de Erick Ramirez"></a>
 </p>
 
-I'm a **Senior Software Engineer** based in Buenos Aires. I build software products and internal tools, working on architecture, implementation and production support.
+I'm a **Senior Software Engineer** based in Buenos Aires. I build software products and internal tools, working across architecture, implementation, delivery and production diagnostics.
 
-I also build AI-assisted development workflows for engineering teams, connecting project context with coding agents and MCP integrations. I help teams adopt them through demos, documentation and technical support.
+I built an AI-assisted development workflow used by around 30 people, and help teams adopt it through demos, documentation and support. I also implemented an agent-based audience and messaging copilot, delivered as a QA demo, with MCP tool integration, deterministic validation and human review.
 
 <p>
   <picture>
@@ -35,23 +35,40 @@ I also build AI-assisted development workflows for engineering teams, connecting
 
 ### Stack
 
+**Languages, services & interfaces**
+
 <p>
   <img src="./assets/stack/typescript.svg" width="80" height="88" alt="TypeScript">
   <img src="./assets/stack/nodejs.svg" width="80" height="88" alt="Node.js">
   <img src="./assets/stack/nestjs.svg" width="80" height="88" alt="NestJS">
-  <img src="./assets/stack/dotnet.svg" width="80" height="88" alt="C# and .NET">
+  <img src="./assets/stack/vue.svg" width="80" height="88" alt="Vue">
   <img src="./assets/stack/react.svg" width="80" height="88" alt="React">
+  <img src="./assets/stack/nextjs.svg" width="80" height="88" alt="Next.js">
   <img src="./assets/stack/angular.svg" width="80" height="88" alt="Angular">
-  <img src="./assets/stack/postgresql.svg" width="80" height="88" alt="PostgreSQL">
-  <img src="./assets/stack/docker.svg" width="80" height="88" alt="Docker">
+  <img src="./assets/stack/dotnet.svg" width="80" height="88" alt="C# and .NET">
 </p>
 
-My work also includes AWS, GCP, CI/CD, SQL Server and event-driven systems.
+**Data, quality & delivery**
+
+<p>
+  <img src="./assets/stack/mongodb.svg" width="80" height="88" alt="MongoDB">
+  <img src="./assets/stack/postgresql.svg" width="80" height="88" alt="PostgreSQL">
+  <img src="./assets/stack/rabbitmq.svg" width="80" height="88" alt="RabbitMQ">
+  <img src="./assets/stack/python.svg" width="80" height="88" alt="Python">
+  <img src="./assets/stack/jest.svg" width="80" height="88" alt="Jest">
+  <img src="./assets/stack/docker.svg" width="80" height="88" alt="Docker">
+  <img src="./assets/stack/kubernetes.svg" width="80" height="88" alt="Kubernetes">
+  <img src="./assets/stack/dynatrace.svg" width="80" height="88" alt="Dynatrace">
+</p>
+
+Additional experience includes SQL Server, HTTP/REST and SOAP integrations, GitLab/GitHub CI/CD and Google Cloud Storage integrations. I've also reviewed AWS and BigQuery integration workflows.
 
 <details>
   <summary>More about my background</summary>
 
 I've been working in software since 2018, across banking platforms, ERP applications and product engineering. Alongside implementation, I review code, help unblock technical work and coordinate people on larger initiatives.
+
+Recent work includes transactional consistency, payment integrations and asynchronous recovery mechanisms using TypeScript/NestJS, Vue, MongoDB and RabbitMQ. I use Jest and Python/Playwright for validation, and Dynatrace/DQL for production diagnostics. React and Next.js experience spans professional and independent projects.
 
 My current focus is software architecture and AI-assisted engineering, including tools that help teams understand their code and prepare changes for release.
 
