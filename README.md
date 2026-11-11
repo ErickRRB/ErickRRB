@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/erickrrb/" title="LinkedIn de Erick Ramirez"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn de Erick Ramirez"></a>
 </p>
 
-I'm a **Senior Software Engineer** based in Buenos Aires. I build software products and internal tools, working across architecture, implementation, delivery and production diagnostics.
+I'm **Erick**, a software engineer in Buenos Aires. I build apps and tools, and I'm interested in AI agents and ways to make development less repetitive.
 
-I built an AI-assisted development workflow used by around 30 people, and help teams adopt it through demos, documentation and support. I also implemented an agent-based audience and messaging copilot, delivered as a QA demo, with MCP tool integration, deterministic validation and human review.
+I built a development workflow that's now used by **over 30 people**, and created the foundation of an audience and messaging copilot. A few of my projects are below.
 
 <p>
   <picture>
@@ -61,15 +61,11 @@ I built an AI-assisted development workflow used by around 30 people, and help t
   <img src="./assets/stack/dynatrace.svg" width="80" height="88" alt="Dynatrace">
 </p>
 
-Additional experience includes SQL Server, HTTP/REST and SOAP integrations, GitLab/GitHub CI/CD and Google Cloud Storage integrations. I've also reviewed AWS and BigQuery integration workflows.
+I also work with SQL Server, REST/SOAP APIs, GitLab/GitHub CI/CD and Google Cloud Storage.
 
 <details>
-  <summary>More about my background</summary>
+  <summary>A little more about me</summary>
 
-I've been working in software since 2018, across banking platforms, ERP applications and product engineering. Alongside implementation, I review code, help unblock technical work and coordinate people on larger initiatives.
-
-Recent work includes transactional consistency, payment integrations and asynchronous recovery mechanisms using TypeScript/NestJS, Vue, MongoDB and RabbitMQ. I use Jest and Python/Playwright for validation, and Dynatrace/DQL for production diagnostics. React and Next.js experience spans professional and independent projects.
-
-My current focus is software architecture and AI-assisted engineering, including tools that help teams understand their code and prepare changes for release.
+I've been building software since 2018. My work has taken me through banking apps, ERP systems and airline projects, and I often build tools to take repetitive work off the team's hands.
 
 </details>
