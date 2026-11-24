@@ -2,7 +2,8 @@
 
 - `assets/erick-ramirez-github.png` and `assets/erick-ramirez-github-v2.png`: illustration generated for Erick Ramirez with the built-in image generation tool, November 2026. It illustrates a desk and a cat; it is not a photograph of Erick's workspace. The current wording is architecture, AI and automation.
 - `assets/workflow.gif` and `assets/workflow.png`: a procedural workflow diagram created for this profile. The PNG is the alternative for reduced motion preferences.
-- `assets/projects/pbeaux-card.png`: screenshot of the public Pbeaux homepage, presented in a project card.
+- `assets/projects/pbeaux-card.png`: screenshot of the public Pbeaux homepage, preserved from the previous profile.
+- `assets/projects/poke-arena-card.png`: screenshot of the public [Poké Arena game](https://poke-arena-web.eriickramiirez.workers.dev/) in a fresh browser context, presented in a project card. The card links directly to the game.
 - `assets/projects/savings-card.png`: screenshot of the public Savings Dashboard in a new browser context, with empty/default values. No personal financial data is included.
 - `assets/projects/fiumba-card.png`: screenshot of the public Fiumba app in a new browser context. The card links to the live project.
 - `assets/projects/quiet-home-card.png`: the interface schematic from the public Tizen TV Home documentation, presented in a project card. It is not a screenshot of a television.

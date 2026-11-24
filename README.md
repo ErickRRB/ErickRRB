@@ -20,13 +20,13 @@ I built a development workflow that's now used by **over 30 people**, and create
 ### Selected projects
 
 <p align="center">
-  <a href="https://pbeaux.com/"><img src="./assets/projects/pbeaux-card.png" width="264" alt="Pbeaux: a digital magazine built with Next.js. Screenshot of the live site; click to open."></a>
+  <a href="https://poke-arena-web.eriickramiirez.workers.dev/"><img src="./assets/projects/poke-arena-card.png" width="264" alt="Poké Arena: a real-time Pokémon strategy game. Screenshot of the live game; click to play."></a>
   <a href="https://fiumba.bet/"><img src="./assets/projects/fiumba-card.png" width="264" alt="Fiumba: prediction markets with virtual Play credits. Screenshot of the public app; click to open."></a>
   <a href="https://github.com/ErickRRB/tizen-tv-home"><img src="./assets/projects/quiet-home-card.png" width="264" alt="Quiet Home: a native Samsung Tizen launcher built with C# and .NET. Interface schematic from the project documentation, not a TV screenshot; click for the source and compatibility notes."></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ErickRRB/Pbeaux">Pbeaux source</a>
+  <a href="https://poke-arena-web.eriickramiirez.workers.dev/">Play Poké Arena</a>
   &nbsp; · &nbsp;
   <a href="https://fiumba.bet/">Fiumba live</a>
   &nbsp; · &nbsp;
